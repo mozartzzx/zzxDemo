@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: zzx_consul_server_md
+Implementation-Version: 1.0.0
+Built-By: zxzheng
+Implementation-Vendor-Id: com.zzx.cloud.ooxx
+Build-Jdk: 1.8.0_181
+Implementation-URL: http://projects.spring.io/spring-boot/cloud_zzx_de
+ mo/zzx_consul_server_md/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
